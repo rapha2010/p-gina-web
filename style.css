@@ -1,4 +1,12 @@
 body{
-    background-color:blueviolet;
+    background-color:fuchsia;
     font-family:BBH Sans Bogle;
+    color:rgb(100, 22, 58)
+}
+header{
+    font-size:50px;
+    text-align:center; 
+}
+.top1{
+    background-color:aliceblue
 }
