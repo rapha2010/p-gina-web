@@ -8,5 +8,8 @@ header{
     text-align:center; 
 }
 .top1{
-    background-color:aliceblue
+    background-color:rgb(243, 250, 255);
+    color:black;
+    text-align:center;
+    padding:40px;
 }
